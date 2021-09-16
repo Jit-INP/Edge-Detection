@@ -1,2 +1,2 @@
 # Edge-Detection
-Different Edge Detection techniques using C
+Different Edge Detection techniques implemented in C
